@@ -73,7 +73,7 @@ const Login = () => {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen" style={{ backgroundColor: "rgb(240, 193, 249)" }}>
+    <div className="flex justify-center items-center min-h-screen" style={{ backgroundColor: "rgb(255, 255, 255)" }}>
       <div className="bg-white p-8 rounded-2xl shadow-lg w-96 backdrop-blur-md">
         {/* Logo */}
         <div className="flex justify-center border-b pb-2 mb-4">
